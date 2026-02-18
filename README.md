@@ -99,8 +99,6 @@ Instead of complex master-node clusters, the infrastructure uses **horizontal sc
 
 ## Deployment SOP
 
-> **Note**: This is a documentation repo. No secrets, keys, or server configurations are included.
-
 1. **Provision**: Spin up DigitalOcean Droplet (Ubuntu 22.04, Singapore, $6/mo Basic)
 2. **Install**: Run Hiddify all-in-one install script
 3. **Optimize**: Execute swap script (2GB) to stabilize 1GB RAM instance
